@@ -1,0 +1,13 @@
+[
+  {
+    "pixelscale": 1,
+    "width": 32,
+    "height": 32
+  },
+  {
+    "icons.png": { "sprite_width": 13, "sprite_height": 13 }
+  },
+  {
+    "terrain.png": { "sprite_width": 32, "sprite_height": 32 }
+  }
+]

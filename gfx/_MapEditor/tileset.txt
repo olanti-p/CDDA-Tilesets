@@ -1,0 +1,4 @@
+NAME: MapEditor
+VIEW: MapEditor
+JSON: tile_config.json
+TILESET: tiles.png
