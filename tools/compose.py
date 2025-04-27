@@ -467,8 +467,8 @@ class Tileset:
         # finalize "tiles-new" config
         tiles_new = list(tiles_new_dict.values())
 
-        FALLBACK['file'] = fallback_name
-        tiles_new.append(FALLBACK)
+        #FALLBACK['file'] = fallback_name
+        #tiles_new.append(FALLBACK)
         output_conf = {
             'tile_info': [{
                 'pixelscale': self.pixelscale,
